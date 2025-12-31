@@ -8,7 +8,7 @@ A financial intelligence solution that analyzes customer profitability, cost-to-
 - Some look “big” but silently destroy margins
 - Some are profitable but risky
 
-- Leadership needs clear visibility on:
+Leadership needs clear visibility on:
 - Which customers truly create financial value?
 - Which customers dilute profitability?
 - Where is economic risk concentrated?
@@ -23,11 +23,12 @@ This financial intelligence framework:
 - Builds a complete customer-level financial model
 - Computes Net Revenue, Cost-to-Serve, Contribution & Profitability
 - Segments customers into strategic value groups:
+1. Strategic Gold 
+2. Hidden Gems   
+3. Margin Diluters  
+4. Value Destroyers
 
- - Strategic Gold - Hidden Gems  - Margin Diluters  - Value Destroyers
-
- 
-- Evaluates customer financial risk
+ - Evaluates customer financial risk
 - Quantifies economic loss from unprofitable segments
 - Enables data-driven FP&A and BI decision making
 
@@ -39,38 +40,36 @@ This financial intelligence framework:
 - Cost drivers (service hours, infra usage, tickets, platform load)
 - Financial assumptions (discounts, retention probability, transactions)
 
-# The objective: Simulate enterprise financial reality as closely as possible.
+The objective: Simulate enterprise financial reality as closely as possible.
 
 
 # 📐 Financial & Segmentation Logic
 - Profitability Logic: Net Revenue = Subscription Revenue − Discounts
-
 - Direct Cost-To-Serve computed using: I. Support Costs  II. Service Costs  III. Infra Cost and IV. Transaction Cost
-
 - Customer Profit = Net Revenue − (Direct Cost + Overhead Allocation)
-
 - Profit Margin% derived from profit proportion
 
-- Revenue vs Profitability Segmentation: 
+Revenue vs Profitability Segmentation: 
 1. High Revenue & High Profit - Strategic Gold
 2. High Revenue & Low Profit - Margin Diluters
 3. Low Revenue & High Profit - Hidden Gems 
 4. Low Revenue & Low Profit - Value Destoyers
 
-- Cost-To-Serve Classification
 
+Cost-To-Serve Classification
 - Low Cost → < 40%
 - Medium Cost → 40% to 70%
 - High Cost → > 70%
 
-- Risk Model
+
+Risk Model
 - Weighted Risk Score = 0.4 × Late Payment Score + 0.3 × Discount Dependency + 0.3 × Retention Risk
-- Where:
+Where:
 Late Payment Score is normalized;
 Discount Score = Discount %;
 Retention Risk = (1 − Retention Probability)
 
-- Risk Classes:
+Risk Classes:
 -Low Risk: < 0.35
 -Medium Risk: 0.35 – 0.65
 -High Risk: > 0.65
@@ -82,7 +81,7 @@ Retention Risk = (1 − Retention Probability)
 - Total Profit
 - % Profitable Customers
 - Average Profit Margin %
--Economic Loss from Value Destroyers
+- Economic Loss from Value Destroyers
 
 # 📈 Strategic Visuals
 - Profitability vs Revenue Quadrant: Identifies value creators vs destroyers
@@ -108,7 +107,7 @@ Retention Risk = (1 − Retention Probability)
 
 
 # 🚀 Why This Project Matters
--- This project demonstrates ability to:
+This project demonstrates ability to:
 - Think like FP&A leadership
 - Build decision-driving analytics
 - Convert raw data → financial strategy
@@ -121,7 +120,7 @@ Retention Risk = (1 − Retention Probability)
 
 
 # 🤝 Let’s Connect
-- Open to discussions, opportunities, and conversations in:
+Open to discussions, opportunities, and conversations in:
 1. FP&A
 2. Business Intelligence
 3. Financial Analytics
