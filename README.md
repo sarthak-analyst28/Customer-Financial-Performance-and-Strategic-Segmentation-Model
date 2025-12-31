@@ -28,7 +28,8 @@ This financial intelligence framework:
 3. Margin Diluters  
 4. Value Destroyers
 
- - Evaluates customer financial risk
+ 
+- Evaluates customer financial risk
 - Quantifies economic loss from unprofitable segments
 - Enables data-driven FP&A and BI decision making
 
