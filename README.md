@@ -1,5 +1,5 @@
 ## Customer Financial Performance & Strategic Segmentation Model
-- A financial intelligence solution that analyzes customer profitability, cost-to-serve, and risk exposure — helping leadership identify high-value customers, cost inefficiencies, and strategic opportunities.
+A financial intelligence solution that analyzes customer profitability, cost-to-serve, and risk exposure — helping leadership identify high-value customers, cost inefficiencies, and strategic opportunities.
 
 # 📌 Business Problem
 - Most companies focus only on revenue. Reality is harsher:
@@ -8,7 +8,7 @@
 - Some look “big” but silently destroy margins
 - Some are profitable but risky
 
--Leadership needs clear visibility on:
+- Leadership needs clear visibility on:
 - Which customers truly create financial value?
 - Which customers dilute profitability?
 - Where is economic risk concentrated?
