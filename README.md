@@ -58,9 +58,9 @@ Revenue vs Profitability Segmentation:
 
 
 Cost-To-Serve Classification
-- Low Cost → < 40%
-- Medium Cost → 40% to 70%
-- High Cost → > 70%
+1. Low Cost → < 40%
+2. Medium Cost → 40% to 70%
+3. High Cost → > 70%
 
 
 Risk Model
@@ -71,9 +71,9 @@ Discount Score = Discount %;
 Retention Risk = (1 − Retention Probability)
 
 Risk Classes:
--Low Risk: < 0.35
--Medium Risk: 0.35 – 0.65
--High Risk: > 0.65
+- Low Risk: < 0.35
+- Medium Risk: 0.35 – 0.65
+- High Risk: > 0.65
 
 ## 📊 Dashboard Highlights
 
