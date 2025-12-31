@@ -73,7 +73,7 @@ Retention Risk = (1 − Retention Probability)
 Risk Classes:
 - Low Risk: < 0.35
 - Medium Risk: 0.35 – 0.65
-- High Risk: > 0.65
+- High Risk: > 0.65 (High Risk class was found to be nil; demonstrated in the model)
 
 ## 📊 Dashboard Highlights
 
