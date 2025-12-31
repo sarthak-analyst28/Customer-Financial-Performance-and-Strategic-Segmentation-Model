@@ -1,7 +1,7 @@
-## Customer Financial Performance & Strategic Segmentation Model
+# Customer Financial Performance & Strategic Segmentation Model
 A financial intelligence solution that analyzes customer profitability, cost-to-serve, and risk exposure — helping leadership identify high-value customers, cost inefficiencies, and strategic opportunities.
 
-# 📌 Business Problem
+## 📌 Business Problem
 - Most companies focus only on revenue. Reality is harsher:
 - Some customers generate massive profits
 - Some consume heavy service resources
@@ -16,7 +16,7 @@ Leadership needs clear visibility on:
 
 This project answers exactly that.
 
-# 🎯 What This Solution Does
+## 🎯 What This Solution Does
 
 This financial intelligence framework:
 
@@ -33,7 +33,7 @@ This financial intelligence framework:
 - Quantifies economic loss from unprofitable segments
 - Enables data-driven FP&A and BI decision making
 
-# 📂 Dataset
+## 📂 Dataset
 
 - Synthetic but business-realistic dataset created with:
 - 250+ customers
@@ -44,7 +44,7 @@ This financial intelligence framework:
 The objective: Simulate enterprise financial reality as closely as possible.
 
 
-# 📐 Financial & Segmentation Logic
+## 📐 Financial & Segmentation Logic
 - Profitability Logic: Net Revenue = Subscription Revenue − Discounts
 - Direct Cost-To-Serve computed using: I. Support Costs  II. Service Costs  III. Infra Cost and IV. Transaction Cost
 - Customer Profit = Net Revenue − (Direct Cost + Overhead Allocation)
@@ -75,30 +75,30 @@ Risk Classes:
 - Medium Risk: 0.35 – 0.65
 - High Risk: > 0.65 (High Risk class was found to be nil; demonstrated in the model)
 
-## 📊 Dashboard Highlights
+# 📊 Dashboard Highlights
 
-# ⭐ Executive KPI Layer
+## ⭐ Executive KPI Layer
 - Total Net Revenue
 - Total Profit
 - % Profitable Customers
 - Average Profit Margin %
 - Economic Loss from Value Destroyers
 
-# 📈 Strategic Visuals
+## 📈 Strategic Visuals
 - Profitability vs Revenue Quadrant: Identifies value creators vs destroyers
 - Cost-To-Serve vs Profitability: Reveals operational efficiency impact
 - Risk Distribution: Shows customer stability
 - Profit Contribution by Risk Class: Links profit to risk exposure
 - Interactive Segmentation Table: Deep dive customer analytics explorer
 
-# 📌 Key Business Insights
+## 📌 Key Business Insights
 
 - 90% customers profitable
 - Majority revenue contribution comes from low-risk customers
 - Value Destroyers generate economic losses — strong case for repricing or exit strategy
 - Hidden Gems indicate untapped expansion potential
 
-# 🛠️ Tools & Skills
+## 🛠️ Tools & Skills
 - Power BI
 - Excel Financial Modeling
 - Data Modeling
@@ -107,7 +107,7 @@ Risk Classes:
 - Segmentation Strategy
 
 
-# 🚀 Why This Project Matters
+## 🚀 Why This Project Matters
 This project demonstrates ability to:
 - Think like FP&A leadership
 - Build decision-driving analytics
@@ -120,7 +120,7 @@ This project demonstrates ability to:
 <img width="1325" height="681" alt="Screenshot 2025-12-31 225117" src="https://github.com/user-attachments/assets/6408ff66-f744-44dd-bb68-183a882819a5" />
 
 
-# 🤝 Let’s Connect
+## 🤝 Let’s Connect
 Open to discussions, opportunities, and conversations in:
 1. FP&A
 2. Business Intelligence
